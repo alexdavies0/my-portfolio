@@ -11,9 +11,9 @@ export default function Projects() {
           <h1 className="sm:text-4xl font-eb-garamond text-3xl font-medium title-font mb-4 text-white">
             Projects
           </h1>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+          {/* <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             From React Apps to Wordpress sites, web to graphic design, browse a range of projects below.
-          </p>
+          </p> */}
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
