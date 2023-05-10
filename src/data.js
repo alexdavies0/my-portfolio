@@ -7,6 +7,14 @@ export const projects = [
     image: "./awhitevideo.gif",
     link: "http://www.awhiteworkshop.com/",
   },
+    {
+    title: "Serendiptous Masterpieces",
+    subtitle: "React",
+    description:
+      "Online art gallery built in React, showcasing works by unknown artists created by accident",
+    image: "./serendipitousmasterpeicesvideo.gif",
+    link: "https://serendipitousmasterpeices.netlify.app",
+  },
   {
     title: "Chestnuts Primary School logo",
     subtitle: "Adobe Illustrator",
