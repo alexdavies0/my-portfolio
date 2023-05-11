@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Wordpress",
     description:
       "Website created for carpenter and designer Alexander White",
-    image: "./awhitevideo.gif",
+    image: "./awhite.png",
     link: "http://www.awhiteworkshop.com/",
   },
     {
@@ -12,22 +12,22 @@ export const projects = [
     subtitle: "React",
     description:
       "Online art gallery built in React, showcasing works by unknown artists created by accident",
-    image: "./serendipitousmasterpeicesvideo.gif",
-    link: "https://serendipitousmasterpeices.netlify.app",
+    image: "./serendipitousmasterpieces.png",
+    link: "https://serendipitousmasterpieces.netlify.app",
   },
   {
     title: "Chestnuts Primary School logo",
     subtitle: "Adobe Illustrator",
     description:
       "Modernisation of logo design, incorporating new colour scheme and illusrtrations inspired by nature",
-    image: "./chestnutslogo.png",
+    image: "./chestnutslogo2.png",
   },
   {
     title: "Trezise",
     subtitle: "Wordpress",
     description:
       "Website for Trezise holiday home in North Cornwall, including calendar and booking systems",
-    image: "./trezisevideo.gif",
+    image: "./trezise3.png",
     link: "http://www.trezise-harlyn.co.uk",
   },
   {
@@ -35,7 +35,7 @@ export const projects = [
     subtitle: "Javascript",
     description:
       "Javascript funtionality for Wake The Tiger's Guild Terminal, allowing users to be assigned a Guild based on their quiz answers",
-    image: "./guildterminalvideo.gif",
+    image: "./guildterminal.png",
     link: "https://reactive.art/WTT/Guild/",
   },
 ];
