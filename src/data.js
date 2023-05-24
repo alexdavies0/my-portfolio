@@ -38,6 +38,13 @@ export const projects = [
     image: "./guildterminal.png",
     link: "https://reactive.art/WTT/Guild/",
   },
+  {
+    title: "Healthy Streets St Ann's",
+    subtitle: "Adobe Illustrator and InDesign",
+    description:
+      "Design of Logo and poster campaigns for Healthy Streets St Ann's and affiliated organisations",
+    image: "./healthystreetsposters.jpg",
+  },
 ];
 
 export const testimonials = [
