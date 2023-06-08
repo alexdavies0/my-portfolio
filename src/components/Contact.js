@@ -71,7 +71,7 @@ export default function Contact() {
             Get In Touch
           </h2>
           <p className="leading-relaxed mb-5">
-            Have a project that needs doing? Fill out the form below.
+            Fill out the form below to let me know what I can do for you.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
