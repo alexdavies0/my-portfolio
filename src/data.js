@@ -21,6 +21,14 @@ export const projects = [
     description:
       "Modernisation of logo design, incorporating new colour scheme and illusrtrations inspired by nature",
     image: "./chestnutslogo2.png",
+    link: "https://www.chestnutsprimary.com/"
+  },
+  {
+    title: "Image Gallery",
+    subtitle: "Next.js",
+    description: "Responsive image gallery with search function built using Next.js",
+    image: "./imagegallery.png",
+    link: "https://image-gallery-15.netlify.app/",
   },
   {
     title: "Trezise",
@@ -34,7 +42,7 @@ export const projects = [
     title: "Guild Terminal",
     subtitle: "Javascript",
     description:
-      "Javascript funtionality for Wake The Tiger's Guild Terminal, allowing users to be assigned a Guild based on their quiz answers",
+      "Javascript funtionality for Wake The Tiger's Interactive Guild Terminal",
     image: "./guildterminal.png",
     link: "https://reactive.art/WTT/Guild/",
   },
@@ -45,6 +53,7 @@ export const projects = [
       "Design of Logo and poster campaigns for Healthy Streets St Ann's and affiliated organisations",
     image: "./healthystreetsposters.jpg",
   },
+
 ];
 
 export const testimonials = [
@@ -66,8 +75,8 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
-  "React",
-  "Ruby",
+  "React.js",
+  "Next.js",
   "Ruby-on-Rails",
   "Adobe Creative Cloud",
   "Wordpress",
